@@ -1,0 +1,5 @@
+nltk==3.5
+pandas==1.1.5
+pymorphy2==0.9.1
+stanza==1.2
+tqdm==4.56.2
